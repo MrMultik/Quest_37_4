@@ -1,0 +1,10 @@
+# ninja log v6
+7	1585	7953519091277426	build.ninja	fcd69dfc50a85e3
+33	715	7953519099425587	Calculator_autogen/timestamp	7a5bd936c11202ba
+33	715	7953519099425587	Calculator_autogen/mocs_compilation.cpp	7a5bd936c11202ba
+33	715	7953519099425587	C:/Users/User/Desktop/C/Calculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Calculator_autogen/timestamp	7a5bd936c11202ba
+33	715	7953519099425587	C:/Users/User/Desktop/C/Calculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	7a5bd936c11202ba
+723	3603	7953519100168746	CMakeFiles/Calculator.dir/main.cpp.obj	36ce3cfdedd05546
+719	3654	7953519100138680	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	1cf02fd758d81d50
+725	3906	7953519100198752	CMakeFiles/Calculator.dir/mainwindow.cpp.obj	6c56c237d7a492ec
+3906	4108	7953519132003439	Calculator.exe	aed1cb6ad8a80a84

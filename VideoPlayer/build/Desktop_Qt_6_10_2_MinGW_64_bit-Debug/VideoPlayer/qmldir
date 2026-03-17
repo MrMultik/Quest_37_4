@@ -1,0 +1,6 @@
+module VideoPlayer
+typeinfo appVideoPlayer.qmltypes
+prefer :/qt/qml/VideoPlayer/
+Main 254.0 Main.qml
+depends QtQuick
+
